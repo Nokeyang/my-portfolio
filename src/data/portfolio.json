@@ -1,0 +1,133 @@
+{
+  "identity": {
+    "name": "Satyam Singh",
+    "initials": "SS",
+    "tagline": "IT Student & IoT Enthusiast",
+    "degree": "BSc Information Technology",
+    "level": "Level 5 — Year 2",
+    "university": "Herald College Kathmandu",
+    "location": "Kathmandu, Nepal",
+    "status": "Open for Opportunities",
+    "statusActive": true,
+    "bio": [
+      "I'm an IT student passionate about the intersection of hardware and software — from IoT systems to full-stack web development. As an organizing member of Tech Connect, a 7-day IoT event, I coordinated sessions and announced the final day program.",
+      "Beyond academics, I bring 6 months of professional sales experience at MotoWorld Nepal, one of the country's leading bike gear showrooms, where I managed inventory, balance sheets, and social media — achieving 1.5 lakhs in single-day sales."
+    ],
+    "heroHeadline": "Building smart solutions for real-world problems.",
+    "heroSub": "IT Student · IoT Innovator · Sales & Tech Hybrid"
+  },
+  "contact": {
+    "email": "satyam@example.com",
+    "github": "github.com/Nokeyang",
+    "linkedin": "linkedin.com/in/satyamsingh",
+    "twitter": "@satyam_singh"
+  },
+  "skills": [
+    {
+      "category": "Web Development",
+      "items": [
+        { "name": "HTML / CSS", "level": 85 },
+        { "name": "JavaScript / React", "level": 75 },
+        { "name": "Git / GitHub", "level": 80 },
+        { "name": "Vite / Node.js", "level": 70 }
+      ]
+    },
+    {
+      "category": "IoT & Hardware",
+      "items": [
+        { "name": "Arduino / ESP32", "level": 80 },
+        { "name": "Sensor Integration", "level": 75 },
+        { "name": "IoT Protocols (MQTT)", "level": 70 },
+        { "name": "Circuit Design", "level": 65 }
+      ]
+    },
+    {
+      "category": "Business & Operations",
+      "items": [
+        { "name": "Sales & CRM", "level": 90 },
+        { "name": "Inventory Management", "level": 85 },
+        { "name": "Social Media Marketing", "level": 80 },
+        { "name": "Event Coordination", "level": 85 }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "IoT Innovators Community Platform",
+      "description": "A community-driven platform for IoT enthusiasts in Nepal to share projects, collaborate on hardware builds, and organize events like Tech Connect. Features project showcases and event management.",
+      "tags": ["React", "Node.js", "IoT", "Community"],
+      "github": "#",
+      "live": "#",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Tech Connect Event Portal",
+      "description": "The official portal for Tech Connect — a 7-day IoT event. Built to handle session scheduling, speaker profiles, live announcements, and participant registration for 200+ attendees.",
+      "tags": ["React", "Firebase", "Event Management", "UI/UX"],
+      "github": "#",
+      "live": "#",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Smart Inventory Tracker",
+      "description": "A lightweight inventory management system inspired by my experience at MotoWorld Nepal. Tracks stock levels, generates balance sheets, and sends low-stock alerts via SMS.",
+      "tags": ["JavaScript", "LocalStorage", "Chart.js", "Responsive"],
+      "github": "#",
+      "live": null,
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Nepal Bike Gear E-Commerce UI",
+      "description": "A modern e-commerce frontend prototype for bike gear showrooms. Features product filtering, cart management, and social media integration — reflecting real retail workflows from my sales experience.",
+      "tags": ["React", "Tailwind CSS", "Vite", "Responsive Design"],
+      "github": "#",
+      "live": null,
+      "featured": false
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2024 – Present",
+      "title": "BSc Information Technology — Level 5",
+      "org": "Herald College Kathmandu",
+      "type": "education"
+    },
+    {
+      "year": "2025",
+      "title": "IoT Innovators Community — Organizing Member",
+      "org": "Tech Connect Event",
+      "type": "experience"
+    },
+    {
+      "year": "2024",
+      "title": "Sales Associate — MotoWorld Nepal",
+      "org": "MotoWorld Nepal (Leading Bike Gear Showroom)",
+      "type": "experience"
+    },
+    {
+      "year": "2023 – 2024",
+      "title": "BSc Information Technology — Level 4",
+      "org": "Herald College Kathmandu",
+      "type": "education"
+    }
+  ],
+  "marquee": [
+    "React",
+    "IoT",
+    "Arduino",
+    "JavaScript",
+    "GitHub Actions",
+    "Vite",
+    "Event Management",
+    "Sales",
+    "Social Media",
+    "Inventory",
+    "Nepal Tech",
+    "Community Building",
+    "Full Stack"
+  ]
+}
